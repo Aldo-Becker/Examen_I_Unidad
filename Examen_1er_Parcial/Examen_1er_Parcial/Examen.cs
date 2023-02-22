@@ -16,5 +16,7 @@ namespace Examen_1er_Parcial
         {
             InitializeComponent();
         }
+
+        
     }
 }
