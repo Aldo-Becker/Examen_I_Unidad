@@ -17,6 +17,22 @@ namespace Examen_1er_Parcial
             InitializeComponent();
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Ejercicio1 ejercicio1 = new Ejercicio1();
+            ejercicio1.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Ejercicio2 ejercicio2 = new Ejercicio2();
+            ejercicio2.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Ejercicio3 ejercicio3 = new Ejercicio3();
+            ejercicio3.Show();
+        }
     }
 }
